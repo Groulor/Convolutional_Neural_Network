@@ -49,7 +49,7 @@ Pour cela, il embarque de multiples modes de fonctionnement pour garantir la con
 - Réduction des risques liés à l’oubli ou au défaut d’activation des équipements.
 - Diminution des coûts opérationnels liés aux procédures correctives.
 
-## Collecte des données et processus de Data Mining
+## 📊 Collecte des données et processus de Data Mining
 Dans le cadre du développement de ce projet, une grande partie des données nécessaires à l'entraînement de notre modèle a été collectée directement en centrale nucléaire, sur le terrain. Le processus de data mining a été une étape essentielle, visant à obtenir des informations concrètes sur le terrain pour garantir la performance du modèle.
 Nous avons capturé une série de photos des équipements en fonctionnement dans des conditions variées et dans la totalité des configurations d’opération. Ces photos ont permis de créer un ensemble de données des différents états possibles, qu'ils en fonctionnement optimal ou potentiellement défectueux.
 
