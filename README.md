@@ -15,7 +15,7 @@
 
 # EDF - Convolutional Neural Network (CNN) ⚡️
 
-**One More Time** est un projet développé pour **EDF**, et plus précisément pour le **service prévention des risques**, l’objectif est de développer un système de **contrôle automatique de la présence et du bon fonctionnement des dosimètres opérationnels** des agents entrant en zone radioactive.
+**One More Time** est un projet développé pour **EDF**, et plus précisément pour le **service prévention des risques**, l’objectif est de développer un système de **contrôle automatique de la présence et du bon fonctionnement des équipements de protection** des agents entrant en zone radioactive.
 
 Ce projet contribue à renforcer la sécurité des agents travaillant en zone "chaude" et à limiter les coûts cachés engendrés par les oublis ou dysfonctionnements des dosimètres.
 
