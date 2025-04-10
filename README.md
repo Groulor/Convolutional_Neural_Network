@@ -3,8 +3,7 @@
 
 ### Ce dépôt sert principalement de vitrine pour présenter le projet dans son ensemble et en exposer les principes fondamentaux. Il permet ainsi de partager des informations générales et de montrer l’architecture du système, mais ne reflète pas l'intégralité de l'implémentation qui reste réservée dans un cadre sécurisé.
 
-### Les photos utilisées pour l’entraînement du modèle ne sont pas incluses dans ce dépôt GitHub. Ces données sont considérées comme sensibles, et leur diffusion publique pourrait compromettre la sécurité des opérations dans les centrales. 
-### Ce dépôt GitHub est uniquement destiné à présenter l’architecture et les technologies employées dans le projet, sans exposer de données sensibles ou protégées.
+### Les photos utilisées pour l’entraînement du modèle ne sont pas incluses dans ce dépôt GitHub. Ces données sont considérées comme sensibles, et leur diffusion publique pourrait compromettre la sécurité des opérations dans les centrales.                                                                                                                                                         Ce dépôt GitHub est uniquement destiné à présenter l’architecture et les technologies employées dans le projet, sans exposer de données sensibles ou protégées.
 
 ### Merci de comprendre ces restrictions liées à la confidentialité.
 
