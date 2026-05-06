@@ -21,6 +21,34 @@ Ce projet contribue à renforcer la sécurité des agents travaillant en zone "c
 
 ---
 
+## 🏗️ Une Réalisation "End-to-End" : De l'Idée au Déploiement
+
+Ce projet a été intégralement conçu, développé et assemblé par une équipe de **4 étudiants** opérant en totale autonomie. Nous avons assuré la maîtrise d'œuvre complète du système, transformant un besoin métier complexe en une solution industrielle prête à l'emploi.
+
+### **🔧 Ingénierie Mécanique & Design (CAO/FAO)**
+* **Conception Produit :** Imagination de la solution globale, études d'ergonomie pour les agents et design industriel du dispositif.
+* **CAO (Conception Assistée par Ordinateur) :** Modélisation 3D complète du boîtier sous logiciel professionnel pour intégrer l'ensemble des composants.
+* **FAO (Fabrication Assistée par Ordinateur) :** Programmation et pilotage des machines-outils pour l'usinage numérique du boîtier final.
+
+### **⚡ Systèmes Embarqués & Hardware**
+* **Conception Matérielle :** Sélection et intégration des composants (micro-ordinateur, caméra industrielle, capteurs de présence, boutons de commande).
+* **Automatisme & Électronique :** Conception des circuits, gestion des relais de puissance et pilotage de vérins pneumatiques via signaux analogiques.
+* **Fiabilité Industrielle :** Implémentation matérielle de la redondance critique pour garantir un fonctionnement 24h/24 et 7j/7.
+
+### **🧠 Intelligence Artificielle & Data Factory**
+* **Data Mining In-Situ :** Campagnes de récolte de données directement sur le terrain en centrale nucléaire.
+* **Data Labeling :** Indexation et labellisation manuelle de milliers d'images pour créer un dataset propriétaire robuste.
+* **Deep Learning :** Entraînement et optimisation du modèle CNN (PyTorch) pour répondre aux exigences de précision du secteur nucléaire.
+
+### **💼 Gestion de Projet & Supply Chain**
+* **Sourcing & Achats :** Recherche de fournisseurs, comparaison technique des composants, gestion du budget et des délais d'approvisionnement.
+* **Analyse de Sûreté :** Conception des protocoles de sécurité et définition des modes de fonctionnement (Normal, Dégradé, Maintenance).
+* **Documentation Technique :** Rédaction de l'intégralité des dossiers de conception et des manuels d'exploitation industrielle.
+
+---
+
+> **Note sur la polyvalence :** Ce projet témoigne de notre capacité à gérer un cycle de développement complet, alliant **compétences logicielles avancées** (IA, Vision) et **maîtrise des contraintes physiques** (Usinage, Électronique, Maintenance).
+
 ## 🔧 Principe 
 Pensé comme une solution **clé en main**, un boîtier usiné embarque tous les éléments du système dans un format compact et robuste. Ce boîtier intègre l’ensemble des composants essentiels au fonctionnement du système, depuis le micro-ordinateur jusqu’à la caméra et ses capteurs, en passant par les relais, boutons de commande, interfaces USB, éléments de redondance et écran d’affichage sécurisé. L’ensemble est conçu pour garantir la **fiabilité, la maintenabilité et la durabilité** du dispositif, tout en facilitant les interventions techniques grâce à une **architecture optimisée et accessible**. Le boitier est relié à une porte papillon et pilote l'accès aux zones controlées à l'aide d'un signal analogique et d'un verrin pneumatique.
 
