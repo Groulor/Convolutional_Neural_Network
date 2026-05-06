@@ -23,7 +23,7 @@ Ce projet contribue à renforcer la sécurité des agents travaillant en zone "c
 
 ## 🏗️ Une Réalisation "End-to-End" : De l'Idée au Déploiement
 
-Ce projet a été intégralement conçu, développé et assemblé par **Louis Butin, Lilian Houbeaux Bachetti, Aurelien Musset et Christian Riviere,** opérant en totale autonomie. Nous avons assuré la maîtrise d'œuvre complète du système, transformant un besoin métier complexe en une solution industrielle prête à l'emploi.
+Ce projet a été intégralement conçu, développé et assemblé par **Louis Butin, Lilian Houbeaux Bachetti, Aurelien Musset et Christian Riviere,** opérant en totale autonomie. Assurant la maîtrise d'œuvre complète du système, transformant un besoin métier complexe en une solution industrielle prête à l'emploi.
 
 ### **Ingénierie Mécanique & Design (CAO/FAO)**
 * **Conception Produit :** Imagination de la solution globale, études d'ergonomie pour les agents et design industriel du dispositif.
